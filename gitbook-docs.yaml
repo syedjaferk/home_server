@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Database Engineering
+  structure:
+    - type: space
+      key: space-1
+      title: Database Engineering
+      path: database-engineering
+      default: true
+      content:
+        directory: ./database-engineering
