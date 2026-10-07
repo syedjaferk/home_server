@@ -1,11 +1,11 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: Locust
+  title: Let's GIT Together
   structure:
     - type: space
       key: space-1
-      title: Locust
-      path: locust
+      title: GIT
+      path: git
       default: true
       content:
-        directory: ./locust
+        directory: ./git
