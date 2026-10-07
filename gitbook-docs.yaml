@@ -1,11 +1,11 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: Let's GIT Together
+  title: Docker Mastery
   structure:
     - type: space
       key: space-1
-      title: GIT
-      path: git
+      title: Docker Mastery
+      path: docker-mastery
       default: true
       content:
-        directory: ./git
+        directory: ./docker-mastery
