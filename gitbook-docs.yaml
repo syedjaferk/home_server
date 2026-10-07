@@ -1,11 +1,11 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: Database Engineering
+  title: Locust
   structure:
     - type: space
       key: space-1
-      title: Database Engineering
-      path: database-engineering
+      title: Locust
+      path: locust
       default: true
       content:
-        directory: ./database-engineering
+        directory: ./locust
